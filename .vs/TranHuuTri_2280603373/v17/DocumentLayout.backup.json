@@ -1,0 +1,1011 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TranHuuTri_2280603373\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\migrations\\20250610175815_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\migrations\\20250610175815_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\account\\unlock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\account\\unlock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\repositories\\efcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\repositories\\efcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\repositories\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\repositories\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\repositories\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\repositories\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\repositories\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\repositories\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\models\\productcolorsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\models\\productcolorsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\repositories\\efsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\repositories\\efsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\migrations\\20250612070429_updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\migrations\\20250612070429_updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\migrations\\20250612065528_updatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\migrations\\20250612065528_updatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\migrations\\20250612152738_update12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\migrations\\20250612152738_update12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\migrations\\20250612152932_db1234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\migrations\\20250612152932_db1234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\migrations\\20250612102840_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\migrations\\20250612102840_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\migrations\\20250612092635_updatedb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\migrations\\20250612092635_updatedb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\migrations\\20250612084658_updatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\migrations\\20250612084658_updatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\migrations\\20250612082400_updatadetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\migrations\\20250612082400_updatadetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|f:\\tranhuutri_2280603373\\tranhuutri_2280603373\\migrations\\20250612081655_updateorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F906B27-5F14-4395-9C70-7E283ACA02C6}|TranHuuTri_2280603373\\TranHuuTri_2280603373.csproj|solutionrelative:tranhuutri_2280603373\\migrations\\20250612081655_updateorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwHgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:03:51.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAgwMcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:43:46.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SD.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Models\\SD.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\SD.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Models\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:42:24.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:41:20.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T08:49:49.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Program.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Program.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Program.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:54:26.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Models\\CartItem.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\CartItem.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:02:37.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T16:01:17.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Views\\Product\\Display.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv30AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T08:41:58.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Models\\Enums.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\Enums.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Models\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:24:06.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T15:16:10.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Models\\ApplicationUser.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:22:33.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T07:33:34.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\Order\\Detail.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Views\\Order\\Detail.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\Order\\Detail.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Views\\Order\\Detail.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T16:20:52.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250610175815_Initial.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250610175815_Initial.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Migrations\\20250610175815_Initial.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250610175815_Initial.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Migrations\\20250610175815_Initial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:00:04.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAswDABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:00:29.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:15:58.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T09:46:55.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAqwCgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:06:11.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Views\\Order\\Index.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T16:20:43.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:01:49.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\ShoppingCart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Views\\ShoppingCart\\Checkout.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\ShoppingCart\\Checkout.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Views\\ShoppingCart\\Checkout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwI0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T09:48:05.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Models\\Product.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\Product.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:02:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T16:06:13.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T16:05:51.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:35:19.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKYAAAAAAAAAAADwv7sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T16:02:07.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Controllers\\OrderController.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:19:28.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Delete.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Delete.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T16:06:27.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UnLock.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\UnLock.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\UnLock.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\UnLock.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Account\\UnLock.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T16:14:42.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:58:55.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EFColorRepository.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\EFColorRepository.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Repositories\\EFColorRepository.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\EFColorRepository.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Repositories\\EFColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:14:00.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T10:04:13.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Models\\OrderDetail.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:53:53.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T10:03:54.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Delete.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Delete.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Order\\Delete.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T10:04:04.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IColorRepository.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\IColorRepository.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Repositories\\IColorRepository.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\IColorRepository.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Repositories\\IColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:15:38.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EFOrderRepository.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\EFOrderRepository.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Repositories\\EFOrderRepository.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\EFOrderRepository.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Repositories\\EFOrderRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:44:40.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:11:29.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:44:12.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T07:30:09.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T15:41:45.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250612152738_update12.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612152738_update12.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Migrations\\20250612152738_update12.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612152738_update12.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Migrations\\20250612152738_update12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:27:38.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250612152932_db1234.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612152932_db1234.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Migrations\\20250612152932_db1234.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612152932_db1234.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Migrations\\20250612152932_db1234.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:29:33.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250612102840_up.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612102840_up.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Migrations\\20250612102840_up.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612102840_up.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Migrations\\20250612102840_up.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:28:40.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ISizeRepository.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\ISizeRepository.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Repositories\\ISizeRepository.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\ISizeRepository.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Repositories\\ISizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:17:17.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductColorSize.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\ProductColorSize.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Models\\ProductColorSize.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\ProductColorSize.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Models\\ProductColorSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:51:17.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250612092635_updatedb1.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612092635_updatedb1.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Migrations\\20250612092635_updatedb1.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612092635_updatedb1.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Migrations\\20250612092635_updatedb1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:26:36.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Models\\ShoppingCart.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:03:08.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250612084658_updatedb.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612084658_updatedb.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Migrations\\20250612084658_updatedb.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612084658_updatedb.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Migrations\\20250612084658_updatedb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:46:59.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250612082400_updatadetail.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612082400_updatadetail.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Migrations\\20250612082400_updatadetail.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612082400_updatadetail.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Migrations\\20250612082400_updatadetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:24:00.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250612081655_updateorderdetail.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612081655_updateorderdetail.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Migrations\\20250612081655_updateorderdetail.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612081655_updateorderdetail.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Migrations\\20250612081655_updateorderdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:16:55.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:54:45.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T07:24:46.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T07:25:34.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T07:30:02.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EFSizeRepository.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\EFSizeRepository.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Repositories\\EFSizeRepository.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Repositories\\EFSizeRepository.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Repositories\\EFSizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:54:36.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250612065528_updatedatabase.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612065528_updatedatabase.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Migrations\\20250612065528_updatedatabase.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612065528_updatedatabase.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Migrations\\20250612065528_updatedatabase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:55:28.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250612070429_updateproduct.cs",
+              "DocumentMoniker": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612070429_updateproduct.cs",
+              "RelativeDocumentMoniker": "TranHuuTri_2280603373\\Migrations\\20250612070429_updateproduct.cs",
+              "ToolTip": "F:\\TranHuuTri_2280603373\\TranHuuTri_2280603373\\Migrations\\20250612070429_updateproduct.cs",
+              "RelativeToolTip": "TranHuuTri_2280603373\\Migrations\\20250612070429_updateproduct.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:04:29.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
